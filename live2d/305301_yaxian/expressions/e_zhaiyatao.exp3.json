@@ -1,0 +1,32 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0.45,
+  "FadeOutTime": 0.5,
+  "Parameters": [
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.0,
+      "Blend": "Multiply"
+    },
+    {
+      "Id": "Paramytsq",
+      "Value": 10.0,
+      "Blend": "Multiply"
+    },
+    {
+      "Id": "Paramzxqh",
+      "Value": 10.0,
+      "Blend": "Multiply"
+    },
+    {
+      "Id": "Paramlian",
+      "Value": 10.0,
+      "Blend": "Multiply"
+    },
+    {
+      "Id": "Paramjzqbd",
+      "Value": 10.0,
+      "Blend": "Multiply"
+    }
+  ]
+}
