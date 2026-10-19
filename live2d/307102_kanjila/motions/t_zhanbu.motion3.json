@@ -1,0 +1,1066 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 5.333,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 60,
+    "TotalSegmentCount": 149,
+    "TotalPointCount": 209,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Model",
+      "Id": "Opacity",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        2.3,
+        0.013,
+        2,
+        2.333,
+        0.048,
+        2,
+        2.367,
+        0.104,
+        2,
+        2.4,
+        0.175,
+        2,
+        2.433,
+        0.26,
+        2,
+        2.467,
+        0.353,
+        2,
+        2.5,
+        0.45,
+        2,
+        2.533,
+        0.55,
+        2,
+        2.567,
+        0.647,
+        2,
+        2.6,
+        0.74,
+        2,
+        2.633,
+        0.825,
+        2,
+        2.667,
+        0.896,
+        2,
+        2.7,
+        0.952,
+        2,
+        2.733,
+        0.987,
+        2,
+        2.767,
+        1,
+        2,
+        2.8,
+        0.997,
+        2,
+        2.833,
+        0.983,
+        2,
+        2.867,
+        0.952,
+        2,
+        2.9,
+        0.897,
+        2,
+        2.933,
+        0.813,
+        2,
+        2.967,
+        0.689,
+        2,
+        3,
+        0.501,
+        2,
+        3.033,
+        0.273,
+        2,
+        3.067,
+        0.081,
+        2,
+        3.1,
+        0,
+        2,
+        4.667,
+        0.01,
+        2,
+        4.7,
+        0.041,
+        2,
+        4.733,
+        0.097,
+        2,
+        4.767,
+        0.177,
+        2,
+        4.8,
+        0.288,
+        2,
+        4.833,
+        0.428,
+        2,
+        4.867,
+        0.6,
+        2,
+        4.9,
+        1,
+        2,
+        5.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        5.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramkaixinshengqi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        5.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramnnaguohaiciu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        5.333,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part6",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part8",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part9",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part10",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part12",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part14",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part15",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part16",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part18",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part20",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part21",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part22",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part23",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part24",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part25",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part26",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part27",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part28",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part29",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part30",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part31",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part32",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part36",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part33",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part34",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part35",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part37",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part52",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part54",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part53",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part47",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part7",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part13",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part17",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part19",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part38",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part39",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part40",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part41",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part48",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part49",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part50",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part51",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part42",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part43",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part44",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part45",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part46",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part55",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        2,
+        4.83,
+        1,
+        0,
+        5.33,
+        1
+      ]
+    }
+  ],
+  "UserData": []
+}
